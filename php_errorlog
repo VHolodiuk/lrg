@@ -1,0 +1,103 @@
+[24-Jul-2020 12:05:24 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 35
+[24-Jul-2020 12:05:45 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 77
+[24-Jul-2020 12:05:47 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 77
+[24-Jul-2020 12:05:49 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 77
+[24-Jul-2020 12:06:07 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 77
+[24-Jul-2020 12:06:10 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 77
+[24-Jul-2020 12:06:12 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 77
+[24-Jul-2020 12:06:14 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 77
+[24-Jul-2020 12:06:15 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 77
+[24-Jul-2020 12:06:19 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 77
+[24-Jul-2020 12:06:35 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 77
+[24-Jul-2020 12:37:30 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 68
+[24-Jul-2020 12:37:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 68
+[24-Jul-2020 12:37:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 68
+[24-Jul-2020 12:37:35 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 68
+[24-Jul-2020 12:37:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 68
+[24-Jul-2020 12:37:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 68
+[24-Jul-2020 12:37:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 68
+[24-Jul-2020 12:40:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 68
+[24-Jul-2020 12:40:33 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 68
+[24-Jul-2020 12:40:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 68
+[24-Jul-2020 14:10:13 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ')' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/footer.php on line 25
+[24-Jul-2020 14:10:14 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ')' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/footer.php on line 25
+[24-Jul-2020 15:06:02 UTC] PHP Parse error:  syntax error, unexpected '">Gift Cards</a>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/footer.php on line 31
+[24-Jul-2020 15:06:03 UTC] PHP Parse error:  syntax error, unexpected '">Gift Cards</a>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/footer.php on line 31
+[24-Jul-2020 15:06:09 UTC] PHP Parse error:  syntax error, unexpected '">Gift Cards</a>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/footer.php on line 31
+[24-Jul-2020 15:06:10 UTC] PHP Parse error:  syntax error, unexpected '">Gift Cards</a>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/footer.php on line 31
+[24-Jul-2020 15:06:25 UTC] PHP Parse error:  syntax error, unexpected '">Gift Cards</a>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/footer.php on line 31
+[24-Jul-2020 15:06:26 UTC] PHP Parse error:  syntax error, unexpected '">Gift Cards</a>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/footer.php on line 31
+[24-Jul-2020 15:47:51 UTC] PHP Fatal error:  Cannot declare class SIMP_OurInspiration, because the name is already in use in /home/partout0/public_html/lrg.bnext.online/wp-content/plugins/custom-content-module/includes/modules/Restaurant/Restaurant.php on line 0
+[24-Jul-2020 15:47:52 UTC] PHP Fatal error:  Cannot declare class SIMP_OurInspiration, because the name is already in use in /home/partout0/public_html/lrg.bnext.online/wp-content/plugins/custom-content-module/includes/modules/Restaurant/Restaurant.php on line 0
+[24-Jul-2020 16:09:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/partout0/public_html/lrg.bnext.online/wp-content/plugins/custom-content-module/includes/modules/Restaurant/Restaurant.php on line 27
+[24-Jul-2020 16:09:01 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/partout0/public_html/lrg.bnext.online/wp-content/plugins/custom-content-module/includes/modules/Restaurant/Restaurant.php on line 27
+[27-Jul-2020 07:23:38 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/partout0/public_html/lrg.bnext.online/wp-content/plugins/custom-content-module/includes/modules/Restaurant/Restaurant.php on line 39
+[27-Jul-2020 07:23:39 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/partout0/public_html/lrg.bnext.online/wp-content/plugins/custom-content-module/includes/modules/Restaurant/Restaurant.php on line 39
+[27-Jul-2020 07:24:00 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/partout0/public_html/lrg.bnext.online/wp-content/plugins/custom-content-module/includes/modules/Restaurant/Restaurant.php on line 39
+[27-Jul-2020 07:24:16 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/partout0/public_html/lrg.bnext.online/wp-content/plugins/custom-content-module/includes/modules/Restaurant/Restaurant.php on line 39
+[27-Jul-2020 07:24:28 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/partout0/public_html/lrg.bnext.online/wp-content/plugins/custom-content-module/includes/modules/Restaurant/Restaurant.php on line 39
+[27-Jul-2020 07:24:46 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/partout0/public_html/lrg.bnext.online/wp-content/plugins/custom-content-module/includes/modules/Restaurant/Restaurant.php on line 39
+[27-Jul-2020 07:25:59 UTC] PHP Parse error:  syntax error, unexpected ''</h3>'' (T_CONSTANT_ENCAPSED_STRING) in /home/partout0/public_html/lrg.bnext.online/wp-content/plugins/custom-content-module/includes/modules/Restaurant/Restaurant.php on line 39
+[07-Aug-2020 16:31:16 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/partout0/public_html/lrg.bnext.online/wp-content/themes/Divi-child/header.php on line 46
+[20-Aug-2020 07:38:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/header.php on line 193
+[20-Aug-2020 07:40:37 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/header.php on line 97
+[20-Aug-2020 07:40:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/header.php on line 97
+[20-Aug-2020 07:58:59 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/header.php on line 160
+[22-Aug-2020 22:10:10 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF), expecting end of file in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/header.php on line 257
+[27-Aug-2020 15:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function addons() on null in /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/pro/wpforms-pro.php:1418
+Stack trace:
+#0 /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/pro/wpforms-pro.php(1373): WPForms_Pro->get_wpforms_plugins()
+#1 /home/partout0/public_html/lrg2.bnext.online/wp-includes/class-wp-hook.php(287): WPForms_Pro->rollback_auto_update_plugin_default_value(true, Object(stdClass))
+#2 /home/partout0/public_html/lrg2.bnext.online/wp-includes/plugin.php(206): WP_Hook->apply_filters(true, Array)
+#3 /home/partout0/public_html/lrg2.bnext.online/wp-admin/includes/class-wp-site-health.php(2377): apply_filters('auto_update_plu...', true, Object(stdClass))
+#4 /home/partout0/public_html/lrg2.bnext.online/wp-admin/includes/class-wp-site-health.php(1760): WP_Site_Health->detect_plugin_theme_auto_update_issues()
+#5 /home/partout0/public_html/lrg2.bnext.online/wp-admin/includes/class-wp-site-health.php(175): WP_Site_Health->get_test_plug in /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/pro/wpforms-pro.php on line 1418
+[06-Sep-2020 08:44:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function addons() on null in /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/pro/wpforms-pro.php:1418
+Stack trace:
+#0 /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/pro/wpforms-pro.php(1373): WPForms_Pro->get_wpforms_plugins()
+#1 /home/partout0/public_html/lrg2.bnext.online/wp-includes/class-wp-hook.php(287): WPForms_Pro->rollback_auto_update_plugin_default_value(true, Object(stdClass))
+#2 /home/partout0/public_html/lrg2.bnext.online/wp-includes/plugin.php(206): WP_Hook->apply_filters(true, Array)
+#3 /home/partout0/public_html/lrg2.bnext.online/wp-admin/includes/class-wp-site-health.php(2386): apply_filters('auto_update_plu...', true, Object(stdClass))
+#4 /home/partout0/public_html/lrg2.bnext.online/wp-admin/includes/class-wp-site-health.php(1760): WP_Site_Health->detect_plugin_theme_auto_update_issues()
+#5 /home/partout0/public_html/lrg2.bnext.online/wp-admin/includes/class-wp-site-health.php(175): WP_Site_Health->get_test_plug in /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/pro/wpforms-pro.php on line 1418
+[11-Sep-2020 02:46:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function addons() on null in /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/pro/wpforms-pro.php:1418
+Stack trace:
+#0 /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/pro/wpforms-pro.php(1373): WPForms_Pro->get_wpforms_plugins()
+#1 /home/partout0/public_html/lrg2.bnext.online/wp-includes/class-wp-hook.php(287): WPForms_Pro->rollback_auto_update_plugin_default_value(true, Object(stdClass))
+#2 /home/partout0/public_html/lrg2.bnext.online/wp-includes/plugin.php(206): WP_Hook->apply_filters(true, Array)
+#3 /home/partout0/public_html/lrg2.bnext.online/wp-admin/includes/class-wp-site-health.php(2386): apply_filters('auto_update_plu...', true, Object(stdClass))
+#4 /home/partout0/public_html/lrg2.bnext.online/wp-admin/includes/class-wp-site-health.php(1760): WP_Site_Health->detect_plugin_theme_auto_update_issues()
+#5 /home/partout0/public_html/lrg2.bnext.online/wp-admin/includes/class-wp-site-health.php(175): WP_Site_Health->get_test_plug in /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/pro/wpforms-pro.php on line 1418
+[11-Sep-2020 02:46:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function addons() on null in /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/pro/wpforms-pro.php:1418
+Stack trace:
+#0 /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/pro/wpforms-pro.php(1373): WPForms_Pro->get_wpforms_plugins()
+#1 /home/partout0/public_html/lrg2.bnext.online/wp-includes/class-wp-hook.php(287): WPForms_Pro->rollback_auto_update_plugin_default_value(true, Object(stdClass))
+#2 /home/partout0/public_html/lrg2.bnext.online/wp-includes/plugin.php(206): WP_Hook->apply_filters(true, Array)
+#3 /home/partout0/public_html/lrg2.bnext.online/wp-admin/includes/class-wp-site-health.php(2386): apply_filters('auto_update_plu...', true, Object(stdClass))
+#4 /home/partout0/public_html/lrg2.bnext.online/wp-admin/includes/class-wp-site-health.php(1760): WP_Site_Health->detect_plugin_theme_auto_update_issues()
+#5 /home/partout0/public_html/lrg2.bnext.online/wp-admin/includes/class-wp-site-health.php(175): WP_Site_Health->get_test_plug in /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/pro/wpforms-pro.php on line 1418
+[01-Oct-2020 06:55:09 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting ')' in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/functions.php on line 4
+[01-Oct-2020 06:55:09 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting ')' in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/functions.php on line 4
+[01-Oct-2020 06:55:20 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting ')' in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/functions.php on line 4
+[01-Oct-2020 06:55:25 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting ')' in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/functions.php on line 4
+[06-Oct-2020 13:40:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=51181 in /home/partout0/public_html/lrg2.bnext.online/wp-includes/wp-db.php on line 2033
+[06-Oct-2020 13:40:25 UTC] PHP Warning:  Error while sending QUERY packet. PID=50152 in /home/partout0/public_html/lrg2.bnext.online/wp-includes/wp-db.php on line 2033
+[12-Oct-2020 08:49:47 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting ')' in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/functions.php on line 4
+[12-Oct-2020 08:49:47 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting ')' in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/functions.php on line 4
+[12-Oct-2020 08:49:51 UTC] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting ')' in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/functions.php on line 4
+[13-Oct-2020 07:31:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wpf_dev_process_redirect_url(), 1 passed in /home/partout0/public_html/lrg2.bnext.online/wp-includes/class-wp-hook.php on line 289 and exactly 4 expected in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/functions.php:53
+Stack trace:
+#0 /home/partout0/public_html/lrg2.bnext.online/wp-includes/class-wp-hook.php(289): wpf_dev_process_redirect_url('https://lrg2.bn...')
+#1 /home/partout0/public_html/lrg2.bnext.online/wp-includes/plugin.php(206): WP_Hook->apply_filters('https://lrg2.bn...', Array)
+#2 /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/includes/class-process.php(513): apply_filters('wpforms_process...', 'https://lrg2.bn...', '442', Array, Array, 32)
+#3 /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/includes/class-process.php(365): WPForms_Process->entry_confirmation_redirect(Array)
+#4 /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/includes/class in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/functions.php on line 53
+[13-Oct-2020 07:33:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function wpf_dev_process_redirect_url(), 1 passed in /home/partout0/public_html/lrg2.bnext.online/wp-includes/class-wp-hook.php on line 289 and exactly 4 expected in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/functions.php:63
+Stack trace:
+#0 /home/partout0/public_html/lrg2.bnext.online/wp-includes/class-wp-hook.php(289): wpf_dev_process_redirect_url('https://lrg2.bn...')
+#1 /home/partout0/public_html/lrg2.bnext.online/wp-includes/plugin.php(206): WP_Hook->apply_filters('https://lrg2.bn...', Array)
+#2 /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/includes/class-process.php(513): apply_filters('wpforms_process...', 'https://lrg2.bn...', '442', Array, Array, 33)
+#3 /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/includes/class-process.php(365): WPForms_Process->entry_confirmation_redirect(Array)
+#4 /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/wpforms/includes/class in /home/partout0/public_html/lrg2.bnext.online/wp-content/themes/Divi-child/functions.php on line 63
+[21-Oct-2020 10:37:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/contact-form-7-mailchimp-extension/lib/deactivate.php on line 219
+[22-Oct-2020 10:34:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/partout0/public_html/lrg2.bnext.online/wp-content/plugins/contact-form-7-mailchimp-extension/lib/deactivate.php on line 219

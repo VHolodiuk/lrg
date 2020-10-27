@@ -1,0 +1,8 @@
+<svg id="Component_19_3" data-name="Component 19 – 3" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="bg" fill="#fff" stroke="#f0eee9" stroke-width="4.5" opacity="0">
+    <rect width="60" height="60" stroke="none"/>
+    <rect x="2.25" y="2.25" width="55.5" height="55.5" fill="none"/>
+  </g>
+  <path id="Path_142" data-name="Path 142" d="M40.842,19.06c0,14.258-19,27-19,27s-19-12.742-19-27c0-10.125,8.688-18,19-18S40.842,8.935,40.842,19.06Z" transform="translate(9.658 6.44)" fill="none" stroke="#f0eee9" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.5"/>
+  <circle id="Ellipse_34" data-name="Ellipse 34" cx="5.5" cy="5.5" r="5.5" transform="translate(25.5 20.5)" fill="none" stroke="#f0eee9" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+</svg>

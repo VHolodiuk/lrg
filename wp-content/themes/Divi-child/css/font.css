@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Acumin Pro Extra Condensed';
+    src: url('../assets/fonts/Acumin-Pro/Acumin-RPro.eot');
+    src: url('../assets/fonts/Acumin-Pro/Acumin-RPro.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Acumin-Pro/Acumin-RPro.woff2') format('woff2'),
+        url('../assets/fonts/Acumin-Pro/Acumin-RPro.woff') format('woff'),
+        url('../assets/fonts/Acumin-Pro/Acumin-RPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('../assets/fonts/Lato/Lato-Regular.eot');
+    src: url('../assets/fonts/Lato/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Lato/Lato-Regular.woff2') format('woff2'),
+        url('../assets/fonts/Lato/Lato-Regular.woff') format('woff'),
+        url('../assets/fonts/Lato/Lato-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../assets/fonts/Playfair_Display/PlayfairDisplay-Regular.eot');
+    src: url('../assets/fonts/Playfair_Display/PlayfairDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Playfair_Display/PlayfairDisplay-Regular.woff2') format('woff2'),
+        url('../assets/fonts/Playfair_Display/PlayfairDisplay-Regular.woff') format('woff'),
+        url('../assets/fonts/Playfair_Display/PlayfairDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
